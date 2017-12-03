@@ -3,4 +3,4 @@ EXEC_PATH=$(dirname $0)
 MOD_PATH=EXEC_PATH
 [ -L $0 ] && MOD_PATH=$EXEC_PATH/$(dirname `readlink $0`)
 
-$EXEC_PATH/mmod $MOD_PATH/mmod-bundle.mod
+$EXEC_PATH/mmod $MOD_PATH/mmod-bundle.mod $1 $2
