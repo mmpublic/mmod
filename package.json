@@ -1,6 +1,10 @@
 {
   "name": "mmod-darwin",
+<<<<<<< HEAD
   "version": "1.0.6",
+=======
+  "version": "2.1.1",
+>>>>>>> 31f951b634e910c06a91dd6f76b192e5e0a5da90
   "main": "index.js",
   "repository": "git@github.com:mmpublic/mmod-darwin.git",
   "author": "zhufeng <zhfjyq@163.com>",
